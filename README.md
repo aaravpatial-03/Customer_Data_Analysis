@@ -44,7 +44,6 @@ customer-shopping-behavior-analysis/
 ├── 🗄️  SQL_Customer_Behavior.sql                          # 10 business SQL queries
 ├── 📊 Customer_Behavior_Dashboard.pbix                   # Power BI dashboard file
 ├── 📑 Customer-Shopping-Behavior-Analysis.pptx           # Project presentation deck
-├── 📄 Customer_Shopping_Behavior_Analysis.pdf            # Full project report
 └── 📘 README.md                                          # Project documentation
 ```
 
