@@ -158,6 +158,7 @@ Built an interactive **Customer Behavior Dashboard** with slicers for Subscripti
 
 > The Power BI dashboard provides interactive filtering across Subscription Status, Gender, Product Category, and Shipping Type.
 
+
 **Key KPIs displayed:**
 - 📦 **3.9K** Total Customers
 - 💵 **$59.76** Average Purchase Amount
