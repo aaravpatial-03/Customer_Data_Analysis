@@ -11,8 +11,6 @@
 
 This end-to-end data analytics project explores **customer shopping behavior** using transactional data from **3,900 purchases** across multiple product categories. The project demonstrates a complete analytics pipeline — from raw data cleaning in Python, structured querying in PostgreSQL, to interactive business dashboards in Power BI — delivering actionable insights to drive real business decisions.
 
-> **Recruiter's Note:** This project showcases a well-rounded data analyst capable of handling the full analytics lifecycle: data wrangling, SQL-based business querying, statistical insight generation, and executive-level visual storytelling.
-
 ---
 
 ## 🎯 Business Objectives
@@ -170,7 +168,7 @@ pip install pandas psycopg2 sqlalchemy jupyter
 ### Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
+git clone https://github.com/aaravpatial-03/customer-shopping-behavior-analysis.git
 
 # 2. Open the Jupyter Notebook for EDA
 jupyter notebook Python_Customer_Shopping_Behavior_Analysis.ipynb
