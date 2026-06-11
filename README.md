@@ -141,6 +141,20 @@ Built an interactive **Customer Behavior Dashboard** with slicers for Subscripti
 
 ---
 
+## 🧠 What I Learned & Challenges Faced
+
+- Connecting pandas to PostgreSQL via SQLAlchemy taught me what a real data pipeline feels like beyond just writing code in isolation.
+
+- A z-order layering bug in Power BI took me time to debug and reminded me that dashboard design has its own technical depth separate from the data work.
+
+- Imputing 37 missing review ratings using category-level medians instead of overall median was a small but important reminder — imputation should reflect
+  business logic, not just math.
+
+- Deriving age_group and purchase_frequency_days made me realize raw data rarely has exactly what your business question needs. Feature engineering is where
+  analysis actually begins.
+
+  ---
+
 ## 📈 Dashboard Preview
 
 > The Power BI dashboard provides interactive filtering across Subscription Status, Gender, Product Category, and Shipping Type.
