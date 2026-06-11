@@ -1,4 +1,4 @@
-# Customer_Data_Analysis
+# Customer_Shopping_Behavior_Analysis
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -188,8 +188,8 @@ psql -U your_username -d your_database -f SQL_Customer_Behavior.sql
 
 | Skill Area | Evidence |
 |---|---|
-| Data Cleaning & EDA | Missing value imputation, column standardization, outlier checks in Python |
-| Feature Engineering | Age group binning, frequency day derivation |
+| Data Cleaning & EDA | Missing value imputation, column standardization, feature engineering |
+| Feature Engineering | Age group binning, Purchase frequency calculation |
 | Advanced SQL | CTEs, Window Functions, Subqueries, Conditional Aggregation |
 | Business Thinking | 10 business-driven queries tied to real KPIs |
 | Data Visualization | Executive-level Power BI dashboard with slicers and KPI cards |
@@ -202,7 +202,9 @@ psql -U your_username -d your_database -f SQL_Customer_Behavior.sql
 
   Aarav Patial
 📧 aaravpatial108@gmail.com
+
 🔗 LinkedIn - https://www.linkedin.com/in/contactaaravpatial
+
 💻 GitHub - https://github.com/aaravpatial-03
 
 ---
